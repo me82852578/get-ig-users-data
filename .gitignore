@@ -1,0 +1,5 @@
+.env
+env
+results
+ig_api/settings.json
+**/__pycache__
